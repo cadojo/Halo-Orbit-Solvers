@@ -1,5 +1,7 @@
 # Halo Orbit Solvers
 
+All work here has been moved to [Halo-Explorations](https://github.com/cadojo/Halo-Explorations)!
+
 ## Summary
 This repository contains a [report](/Report/Carpinelli_Halo_Solvers.pdf) and a 
 [Pluto notebook](/Code/Halo%20Orbit%20Solvers.pdf) which which implement
